@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+    <a href="https://plugins.jetbrains.com/plugin/12264-darcula-sombre"><img src="https://img.shields.io/jetbrains/plugin/v/12264-darcula-sombre.svg"/></a>
+    <a href="https://plugins.jetbrains.com/plugin/12264-darcula-sombre"><img src="https://img.shields.io/jetbrains/plugin/d/12264-darcula-sombre.svg"/></a>
+    <a href="https://github.com/jonathanlermitage/intellij-darcula-sombre-theme/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/jonathanlermitage/intellij-darcula-sombre-theme.svg"/></a>
+    <br/>
     IntelliJ IDEA (and other JetBrains products) theme. Like Darcula, but darker.
 </p>
 
