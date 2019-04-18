@@ -1,0 +1,38 @@
+<idea-plugin>
+    <id>lermitage.jetbrains.darcula.sombre</id>
+    <name>Darcula Sombre</name>
+    <version>1.0</version>
+    <vendor email="jonathan.lermitage@gmail.com" url="https://github.com/jonathanlermitage">Jonathan Lermitage</vendor>
+
+    <!--suppress PluginXmlValidity -->
+    <description><![CDATA[
+      Darcula Sombre Theme: like Darcula Theme, with darker colors and unobtrusive borders.<br/>
+      <i>File</i> &gt; <i>Settings...</i> &gt; <i>Appearance &amp; Behavior</i> &gt; <i>Appearance</i> &gt; choose <i>Darcula Sombre</i> theme.<br/><br/>
+      <img src="https://raw.githubusercontent.com/jonathanlermitage/intellij-darcula-sombre-theme/master/screenshot.png" alt="theme preview"/>
+    ]]></description>
+
+    <!--suppress PluginXmlValidity -->
+    <change-notes><![CDATA[
+      First release.
+    ]]>
+    </change-notes>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="191.1"/>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+           on how to target different products -->
+    <!-- uncomment to enable plugin in all products-->
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <!--suppress PluginXmlValidity -->
+        <themeProvider id="a4453dfe-5709-46d1-889c-c7f5d3da14d6" path="/darcula_sombre.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+</idea-plugin>

@@ -1,0 +1,93 @@
+{
+  "name": "Darcula Sombre",
+  "dark": true,
+  "author": "Jonathan Lermitage",
+  "editorScheme": "/darcula_sombre.xml",
+  "ui": {
+
+    "Tree.selectionInactiveBackground": "#313335",
+    "Tree.selectionBackground": "#2A47A0",
+
+    "EditorTabs.borderColor": "#36383A",
+    "EditorTabs.selectedBackground": "#44474A",
+    "EditorTabs.underlineColor": "#4295D9",
+
+    "List.selectionBackground": "#2A47A0",
+    "Table.selectionBackground": "#2A47A0",
+
+    "FileColor.Green": "#364640",
+
+    "Borders.color": "#404244",
+    "Borders.ContrastBorderColor": "#36383A",
+    "Menu.borderColor": "#444648",
+    "Menu.separatorColor": "#444648",
+    "MenuBar.borderColor": "#36383A",
+    "NavBar.borderColor": "#36383A",
+    "StatusBar.borderColor": "#36383A",
+
+    "SearchEverywhere.Advertiser.background": "#36383A",
+    "SearchEverywhere.Header.background": "#36383A",
+    "SearchEverywhere.List.separatorColor": "#404244",
+    "SearchEverywhere.Tab.selectedBackground": "#46484A",
+    "SearchEverywhere.SearchField.borderColor": "#36383A",
+
+    "TextField.background": "#414345",
+    "TextArea.background": "#414345",
+
+    "Plugins.Tab.selectedBackground": "#46484A",
+
+    "Popup.Advertiser.background": "#2B2B2B",
+
+    "Notification.background": "#353535",
+    "Notification.borderColor": "#353535",
+    "Notification.foreground": "#C7C7C7",
+    "Notification.errorBackground": "#533535",
+    "Notification.errorBorderColor": "#533535",
+    "Notification.errorForeground": "#C7C7C7",
+    "Notification.ToolWindow.warningBackground": "#56350C",
+    "Notification.ToolWindow.warningBorderColor": "#A76617",
+    "Notification.ToolWindow.warningForeground": "#C7C7C7",
+
+    "ScrollBar.Transparent.thumbColor": "#6d6d6d3d",
+    "ScrollBar.Transparent.hoverThumbColor": "#8585853d",
+    "ScrollBar.Mac.Transparent.thumbColor": "#6d6d6d3d",
+    "ScrollBar.Mac.Transparent.hoverThumbColor": "#8585853d",
+    "ScrollBar.thumbColor": "#515151",
+    "ScrollBar.hoverThumbColor": "#646464",
+    "ScrollBar.background": "#36383A",
+
+    "Button.background": "#36383A",
+    "ComboBox.background": "#36383A",
+    "ComboBoxButton.background": "#36383A",
+    "CompletionPopup.background":"#36383A",
+    "EditorPane.background": "#36383A",
+    "CheckBox.background": "#36383A",
+    "CheckBoxMenuItem.background": "#36383A",
+    "HelpTooltip.background": "#36383A",
+    "Label.background": "#36383A",
+    "List.background": "#36383A",
+    "Menu.background": "#36383A",
+    "MenuItem.background": "#36383A",
+    "OptionPane.background": "#36383A",
+    "Panel.background": "#36383A",
+    "ParameterInfo.background": "#36383A",
+    "ParameterInfo.currentOverloadBackground": "#36383A",
+    "PopupMenu.background": "#36383A",
+    "RadioButton.background": "#36383A",
+    "SidePanel.background": "#36383A",
+    "Slider.background": "#36383A",
+    "Spinner.background": "#36383A",
+    "SpeedSearch.background": "#36383A",
+    "TabbedPane.background": "#36383A",
+    "Table.background": "#36383A",
+    "TextPane.background": "#36383A",
+    "TitlePane.background": "#36383A",
+    "ToolBar.background": "#36383A",
+    "ToolTip.Actions.background": "#36383A",
+    "ToolTip.background": "#36383A",
+    "ToolWindow.Header.background": "#36383A",
+    "ToolWindow.Header.inactiveBackground": "#36383A",
+    "Tree.background": "#36383A"
+
+  }
+}
