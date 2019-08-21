@@ -11,7 +11,7 @@
     "EditorTabs.borderColor": "#36383A",
     "EditorTabs.selectedBackground": "#44474A",
     "EditorTabs.underlinedTabBackground": "#44474A",
-    "EditorTabs.hoverMaskColor": "#44474A",
+    "EditorTabs.hoverMaskColor": "#44474A00",
     "EditorTabs.underlineColor": "#4295D9",
     "DefaultTabs.background": "#36383A",
 

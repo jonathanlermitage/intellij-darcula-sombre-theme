@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>lermitage.jetbrains.darcula.sombre</id>
     <name>Darcula Sombre</name>
-    <version>1.4.0.192</version>
+    <version>1.5.0.192</version>
     <vendor email="jonathan.lermitage@gmail.com" url="https://github.com/jonathanlermitage">Jonathan Lermitage</vendor>
 
     <description><![CDATA[
@@ -11,6 +11,10 @@
     ]]></description>
 
     <change-notes><![CDATA[
+      1.5.0.192 (2019/08/21)
+      <ul>
+        <li>disable the hover effect of editor's tabs introduced in IntelliJ 2019.2.</li>
+      </ul>
       1.4.0.192 (2019/07/29)
       <ul>
         <li>rework editor tabs-bar colors in IntelliJ 2019.2.</li>
