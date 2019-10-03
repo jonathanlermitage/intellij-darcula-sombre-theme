@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>lermitage.jetbrains.darcula.sombre</id>
     <name>Darcula Sombre</name>
-    <version>1.6.0.192</version>
+    <version>1.7.0.192</version>
     <vendor email="jonathan.lermitage@gmail.com" url="https://github.com/jonathanlermitage">Jonathan Lermitage</vendor>
 
     <description><![CDATA[
@@ -11,6 +11,10 @@
     ]]></description>
 
     <change-notes><![CDATA[
+      1.7.0.192 (2019/10/03)
+      <ul>
+        <li>reduce editor tabs underline height from 4 to 3px.</li>
+      </ul>
       1.6.0.192 (2019/09/11)
       <ul>
         <li>disable the hover effect of editor's tabs introduced in IntelliJ 2019.3 EAP.</li>
