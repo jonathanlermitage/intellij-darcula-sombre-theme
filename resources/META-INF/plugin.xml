@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>lermitage.jetbrains.darcula.sombre</id>
     <name>Darcula Sombre</name>
-    <version>1.7.0.192</version>
+    <version>1.8.0.192</version>
     <vendor email="jonathan.lermitage@gmail.com" url="https://github.com/jonathanlermitage">Jonathan Lermitage</vendor>
 
     <description><![CDATA[
@@ -11,6 +11,10 @@
     ]]></description>
 
     <change-notes><![CDATA[
+      1.8.0.192 (2019/12/14)
+      <ul>
+        <li>add an additional theme: <i>Darcula Sombre (with borders)</i>. Like Darcula Sombre, with visible borders.</li>
+      </ul>
       1.7.0.192 (2019/10/03)
       <ul>
         <li>reduce editor tabs underline height from 4 to 3px.</li>
@@ -59,6 +63,7 @@
         <!-- Add your extensions here -->
         <!--suppress PluginXmlValidity -->
         <themeProvider id="a4453dfe-5709-46d1-889c-c7f5d3da14d6" path="/darcula_sombre.theme.json"/>
+        <themeProvider id="ae3d7ea2-51b1-4fcc-a1da-1580cc3f6ad4" path="/darcula_sombre_borders.theme.json"/>
     </extensions>
 
     <actions>
