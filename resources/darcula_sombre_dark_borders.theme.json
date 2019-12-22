@@ -1,14 +1,14 @@
 {
-  "name": "Darcula Sombre (with bright borders)",
+  "name": "Darcula Sombre (with dark borders)",
   "dark": true,
   "author": "Jonathan Lermitage",
-  "editorScheme": "/darcula_sombre_borders.xml",
+  "editorScheme": "/darcula_sombre_dark_borders.xml",
   "ui": {
 
     "Tree.selectionInactiveBackground": "#313335",
     "Tree.selectionBackground": "#2A47A0",
 
-    "EditorTabs.borderColor": "#4c4f52",
+    "EditorTabs.borderColor": "#292c2d",
     "EditorTabs.selectedBackground": "#44474A",
     "EditorTabs.underlinedTabBackground": "#44474A",
     "EditorTabs.hoverMaskColor": "#44474A00",
@@ -22,13 +22,13 @@
 
     "FileColor.Green": "#364640",
 
-    "Borders.color": "#4c4f52",
-    "Borders.ContrastBorderColor": "#4c4f52",
+    "Borders.color": "#292c2d",
+    "Borders.ContrastBorderColor": "#292c2d",
     "Menu.borderColor": "#4c4f52",
     "Menu.separatorColor": "#4c4f52",
-    "MenuBar.borderColor": "#4c4f52",
+    "MenuBar.borderColor": "#474a4d",
     "NavBar.borderColor": "#4c4f52",
-    "StatusBar.borderColor": "#4c4f52",
+    "StatusBar.borderColor": "#45484b",
 
     "SearchEverywhere.Advertiser.background": "#36383A",
     "SearchEverywhere.Header.background": "#36383A",

@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>lermitage.jetbrains.darcula.sombre</id>
     <name>Darcula Sombre</name>
-    <version>1.8.0.192</version>
+    <version>1.9.0.192</version>
     <vendor email="jonathan.lermitage@gmail.com" url="https://github.com/jonathanlermitage">Jonathan Lermitage</vendor>
 
     <description><![CDATA[
@@ -11,6 +11,11 @@
     ]]></description>
 
     <change-notes><![CDATA[
+      1.9.0.192 (2019/12/22)
+      <ul>
+        <li>add an additional theme: <i>Darcula Sombre (with dark borders)</i>.</li>
+        <li>rename <i>Darcula Sombre (with borders)</i> theme to <i>Darcula Sombre (with bright borders)</i></li>
+      </ul>
       1.8.0.192 (2019/12/14)
       <ul>
         <li>add an additional theme: <i>Darcula Sombre (with borders)</i>. Like Darcula Sombre, with visible borders.</li>
@@ -64,6 +69,7 @@
         <!--suppress PluginXmlValidity -->
         <themeProvider id="a4453dfe-5709-46d1-889c-c7f5d3da14d6" path="/darcula_sombre.theme.json"/>
         <themeProvider id="ae3d7ea2-51b1-4fcc-a1da-1580cc3f6ad4" path="/darcula_sombre_borders.theme.json"/>
+        <themeProvider id="20432ab9-6dc1-467f-83ca-3425c3609f41" path="/darcula_sombre_dark_borders.theme.json"/>
     </extensions>
 
     <actions>
