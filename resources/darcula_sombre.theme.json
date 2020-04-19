@@ -3,6 +3,14 @@
   "dark": true,
   "author": "Jonathan Lermitage",
   "editorScheme": "/darcula_sombre.xml",
+
+
+  "icons": {
+    "ColorPalette": {
+      "Actions.GreyInline.Dark": "#FFFFFF33"
+    }
+  },
+
   "ui": {
 
     "Tree.selectionInactiveBackground": "#313335",
