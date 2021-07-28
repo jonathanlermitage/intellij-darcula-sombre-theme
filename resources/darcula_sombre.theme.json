@@ -15,6 +15,7 @@
     "EditorTabs.hoverBackground": "#44474A00",
     "EditorTabs.underlineColor": "#4295D9",
     "EditorTabs.underlineHeight" : 3,
+    "EditorTabs.background": "#36383A",
     "DefaultTabs.background": "#36383A",
 
     "List.selectionBackground": "#2A47A0",
