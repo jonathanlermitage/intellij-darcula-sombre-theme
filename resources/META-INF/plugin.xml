@@ -1,25 +1,29 @@
 <idea-plugin>
     <id>lermitage.jetbrains.darcula.sombre</id>
     <name>Darcula Sombre</name>
-    <version>1.10.0.192</version>
+    <version>1.11.0.192</version>
     <vendor email="jonathan.lermitage@gmail.com" url="https://github.com/jonathanlermitage">Jonathan Lermitage</vendor>
 
     <description><![CDATA[
       Darcula Sombre Theme: like Darcula Theme, with darker colors and unobtrusive borders.<br/>
       <b>Apply theme</b>: <i>File</i> &gt; <i>Settings...</i> &gt; <i>Appearance &amp; Behavior</i> &gt; <i>Appearance</i> &gt; choose <i>Darcula Sombre</i> theme and validate.<br/><br/>
-      <img src="https://raw.githubusercontent.com/jonathanlermitage/intellij-darcula-sombre-theme/master/screenshot.png" alt="theme preview"/>
+      <img src="https://raw.githubusercontent.com/jonathanlermitage/intellij-darcula-sombre-theme/ide-192/screenshot.png" alt="theme preview"/>
     ]]></description>
 
     <change-notes><![CDATA[
+      1.11.0.192 (2022/02/27)
+      <ul>
+        <li>partially fix inactive editor tabs hover-bg-color in IntelliJ 2021.3.</li>
+      </ul>
       1.10.0.192 (2021/07/28)
       <ul>
         <li>add an additional theme: <i>Darcula Sombre (transparent selection)</i>.</li>
-        <li>fix editor tabs-bar bg-color in IntelliJ 2021.2</li>
+        <li>fix editor tabs-bar bg-color in IntelliJ 2021.2.</li>
       </ul>
       1.9.0.192 (2019/12/22)
       <ul>
         <li>add an additional theme: <i>Darcula Sombre (with dark borders)</i>.</li>
-        <li>rename <i>Darcula Sombre (with borders)</i> theme to <i>Darcula Sombre (with bright borders)</i></li>
+        <li>rename <i>Darcula Sombre (with borders)</i> theme to <i>Darcula Sombre (with bright borders)</i>.</li>
       </ul>
       1.8.0.192 (2019/12/14)
       <ul>
